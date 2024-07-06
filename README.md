@@ -1,5 +1,5 @@
 Ejercicio propuesto por ALURA
-Foro con las siguientes tablas
+Foro con las siguientes tablas/ entidades:
 Usuarios
 Topicos
 Cursos
